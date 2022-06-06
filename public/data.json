@@ -1,0 +1,83 @@
+[
+    {
+        "_id": "3",
+        "price": 150,
+        "quantity": 8074,
+        "description": "The House of the Dead 2 is a first-person light gun shooter arcade game with a horror theme and the second game in The House of the Dead series of video games. The direct sequel to The House of the Dead, it was developed by Sega for arcades on the Sega NAOMI board in November 1998 then later ported to the Dreamcast in 1999 and Microsoft Windows in 2001, and is also found on the Xbox as an unlockable bonus.",
+        "image": "https://i.ytimg.com/vi/nyHY3Eoa2iA/maxresdefault.jpg",
+        "name": "The House of the Dead 2",
+        "email": "shanikafin@gmail.com"
+    },
+    {
+        "_id": "1",
+        "price": 40,
+        "quantity": 6103,
+        "description": "The House of the Dead III is a 2002 horror-themed light gun arcade game and the third installment to the House of the Dead series of video games, developed by Wow Entertainment and Sega. It was later ported to the Xbox in 2003, Microsoft Windows in 2005, the Wii in 2008 in a compilation with The House of the Dead 2, and PlayStation 3 in 2012 with PlayStation Move support. The game was remade with typing controls as The Typing of the Dead 2 in 2008.",
+        "image": "https://www.thegamesdownload.net/wp-content/uploads/2019/10/The-House-of-the-Dead-3-cover-740x350.jpg",
+        "name": "The House of the Dead III",
+        "email": "shanikafin@gmail.com"
+    },
+    {
+        "_id": "2",
+        "price": 15,
+        "quantity": 6507,
+        "description": "The House of the Dead 4 is a horror-themed light gun arcade game and the fourth installment of the House of the Dead video game series, developed by Sega. The game takes place between the events of The House of the Dead 2 and The House of the Dead III, and introduced several new gameplay concepts. Players can control characters James Taylor, from The House of the Dead 2 or Kate Green, a new character to the series.",
+        "image": "https://segaretro.org/images/9/90/Hotd4ps3_title.png",
+        "name": "The House of the Dead 4",
+        "email": "shanikafin@gmail.com"
+    },
+    {
+        "_id": "4",
+        "price": 30,
+        "quantity": 7209,
+        "description": "Max Payne is a neo-noir third-person shooter video game series developed by Remedy Entertainment (Max Payne and Max Payne 2) and Rockstar Studios (Max Payne 3). The series is named after its protagonist, Max Payne, a New York City police detective turned vigilante after his family was murdered by drug addicts. The series' first and second installments were written by Sam Lake, while Max Payne 3 was primarily written by Rockstar Games' Dan Houser",
+        "image": "https://gepig.com/game_cover_460w/138.jpg",
+        "name": "Max Payne",
+        "email": "shanikafin@gmail.com"
+    },
+    {
+        "_id": "5",
+        "price": 10,
+        "quantity": 8020,
+        "description": "Max Payne 2: The Fall of Max Payne is a third-person shooter video game developed by Remedy Entertainment and published by Rockstar Games. It is the sequel to 2001's Max Payne and the second game in the Max Payne series. Set two years after the events of the first game, the sequel finds Max Payne working again as a detective for the New York City Police Department (NYPD), while sturggling with nightmares about his troubled past.",
+        "image": "https://images7.alphacoders.com/531/thumb-1920-531074.jpg",
+        "name": "Max Payne 2: The Fall of Max Payne",
+        "email": "shanikafin@gmail.com"
+    },
+    {
+        "_id": "6",
+        "price": 45,
+        "quantity": 8620,
+        "description": "Max Payne 3 is a third-person shooter video game developed by Rockstar Studios and published by Rockstar Games. It was released on May 15, 2012 for the PlayStation 3 and Xbox 360; a Microsoft Windows port was released on May 29, 2012, followed by an OS X port on June 20, 2013.The game is the third entry in the Max Payne series and the sequel to Max Payne 2: The Fall of Max Payne. The game is also backwards compatible on Xbox One and Xbox Series X/S.",
+        "image": "https://game.wmlcloud.com/wp-content/uploads/2022/05/game.wmlcloud.comtechraptor.netMax-Payne-3-9eaa29c42fd53ab63b53ea0c6305622912978913.jpg",
+        "name": "Max Payne 3",
+        "email": "shanikafin@gmail.com"
+    },
+    {
+        "_id": "9",
+        "price": 70,
+        "quantity": 7520,
+        "description": "Mortal Kombat is an American media franchise centered on a series of video games originally developed by Midway Games in 1992. The development of the first game was originally based on an idea that Ed Boon and John Tobias had of making a video game starring Jean-Claude Van Damme, but when that idea fell through, a science fantasy-themed fighting game was created instead. The original Mortal Kombat was the first fighting game to introduce a secret fighter, reached if the player fulfilled a set of requirements.",
+        "image": "https://images.thedirect.com/media/article_full/mortal-kombat-2-writer-teases-the-sequels-unexpected-story-exclusive_.jpg",
+        "name": "Mortal Kombat",
+        "email": "shanikafin@gmail.com"
+    },
+    {
+        "_id": "18",
+        "price": 25,
+        "quantity": 6852,
+        "description": "Grand Theft Auto V is a 2013 action-adventure game developed by Rockstar North and published by Rockstar Games. It is the seventh main entry in the Grand Theft Auto series, following 2008's Grand Theft Auto IV, and the fifteenth instalment overall. Set within the fictional state of San Andreas, based on Southern California, the single-player story follows three protagonists—retired bank robber Michael De Santa, street gangster Franklin Clinton, and drug dealer and gunrunner Trevor Philips—and their attempts to commit heists while under pressure from a corrupt government agency and powerful criminals.",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/271590/capsule_616x353.jpg?t=1618856444",
+        "name": "Grand Theft Auto V",
+        "email": "shanikafin@gmail.com"
+    },
+    {
+        "_id": "52",
+        "price": 80,
+        "quantity": 4241,
+        "description": "Crysis is a first-person shooter video game series created by German developer Crytek. The series revolves around a group of military protagonists with 'nanosuits', technologically advanced suits of armor that give them enhanced physical strength, speed, defense, and cloaking abilities. The protagonists face off against hostile North Korean soldiers, heavily armed mercenaries, and a race of technologically advanced aliens known as the Ceph, who arrived on Earth millions of years ago and have recently been awakened.",
+        "image": "https://www.mobygames.com/images/covers/l/673898-crysis-remastered-nintendo-switch-front-cover.jpg",
+        "name": "Crysis",
+        "email": "shanikafin@gmail.com"
+    }
+]
